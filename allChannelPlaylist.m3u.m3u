@@ -320,6 +320,9 @@ https://delta35tatasky.akamaized.net/out/i/6081324.mpd
 #EXTINF:-1 tvg-id="220" group-title="Regional Tamil" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" ,Puthiya Thalaimurai
 https://delta4tatasky.akamaized.net/out/i/3145201.mpd
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUG JUG JIYO (2022) 1080p" tvg-logo="" group-title="PRIME VIDEO (AMAZON PRIME)",JUG JUG JIYO (2022) 1080p
+https://assets-1.mypowerdisk.com/transcode_video/db4a1c840c5c20586547e2385bccdf51/dash/513fdba917ca267159c2ae14264338c8.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000353&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMTgxMTA2MzE5IiwiaXNlIjp0cnVlLCJqdGkiOiIwYWI3NzJiMi05YTlmLTRkYWItYWJlNC00ZGIyMGFhNDc5MmEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjU5MDA4MzYxLCJuYW1lIjoiTGF4bWFuIE1hbmRhbCIsImlhdCI6MTY1ODkyMTk2MSwiZW50IjpbeyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTI3NCJ9XSwiaXNzIjoiVFROIn0.kH2Z0QMJ8qs068pvii-94eXA0T4RMFFov3G2ApZlk48|Content-Type=application/octet-stream|R{SSM}|
 #EXTINF:-1 tvg-id="332" group-title="Regional Hindi" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11375-j9jpws3k-v1/imageContent-11375-j9jpws3k-m1.png" ,DD Rajasthan
