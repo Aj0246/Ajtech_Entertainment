@@ -19,3 +19,7 @@ http://192.168.0.106/tsjiotv/Movies/Stranger%20Things%20S04E09.mkv
 http://192.168.0.106/tsjiotv/Movies/Stranger%20Things%20S03/
 #EXTINF:-1, tvg-logo="https://i0.wp.com/cricketaddictor.com/wp-content/uploads/2022/08/India-vs-Pakistan.jpg?w=1200&ssl=1", India Vs Pakistan
 https://4ota.short.gy/IndiavsPakistan.m3u8
+#EXTINF:-1,sasural simar ka 2
+#KODIPROP:inputstream.adaptive.license_type=prod.media.jio.com
+#KODIPROP:inputstream.adaptive.license_key=https://prod.media.jio.com/wvproxy?videoid=2000530843&vootid=1365218&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJ4QTBxS2pCOFp3Q0sydTB2WEZTS3dOR3RTT2ZJIiwiZW1haWwiOiJhamNyZWF0aW9uMDI0NkBnbWFpbC5jb20iLCJkZXZpY2VJZCI6ImVjYmZlZTk0LWM2YmUtNDU5Yy1iMzE1LTUwOTU5NWY0MjRlYyIsImtVc2VySWQiOiI1MzczMDc0OTEiLCJpYXQiOjE2NjIxOTc5NjgsImV4cCI6MTY2MzA2MTk2OCwiaXNzIjoidm9vdCJ9.lIWmCuUb42s6vB_FQjaekgqtITRYBdVyPOk4VuPDbLA
+https://vootdash.cdn.jio.com/content/entry/wvdata/74/49/a964d6a02aa211ed96cfe7bb2d942443_voot_web_premium.mpd
